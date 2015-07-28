@@ -64,7 +64,7 @@ uploadFile = (event, template) ->
 
 		collection.insert file, (error, image) =>
 			if error
-				console.log err
+				console.log error
 			else
 				$('input[name="' + @atts.name + '"]').val image._id
 				template.file.set image
