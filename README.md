@@ -5,11 +5,12 @@ Autoform File
 Upload and manage files with autoForm for materialize
 
 **Forked from [yogiben:autoform-file](https://github.com/yogiben/meteor-autoform-file)**
+**Forked from [gildaspk:autoform-file-materialize](https://github.com/djhi/meteor-autoform-file-materialize/)**
 
 ![Meteor autoform file](https://raw.githubusercontent.com/yogiben/meteor-autoform-file/master/readme/1.png)
 
 ### Quick Start ###
-1) Install `meteor add gildaspk:autoform-file-materialize`
+1) Install `meteor add lwl1991:autoform-file-materialize`
 
 2) Create your collectionFS (See [collectionFS](https://github.com/CollectionFS/Meteor-CollectionFS))
 ```
