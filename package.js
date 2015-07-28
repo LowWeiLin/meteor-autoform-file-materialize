@@ -1,9 +1,9 @@
 Package.describe({
-  name: "gildaspk:autoform-file-materialize",
+  name: "lwl1991:autoform-file-materialize",
   summary: "File upload for AutoForm with Materialize",
   description: "File upload for AutoForm with Materialize",
   version: "0.0.6",
-  git: "http://github.com/djhi/meteor-autoform-file-materialize.git"
+  git: "http://github.com/LowWeiLin/meteor-autoform-file-materialize.git"
 });
 
 Package.onUse(function(api) {
